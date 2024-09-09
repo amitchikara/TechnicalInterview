@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Order</title>
+</head>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f0f0f0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    form {
+        background-color: white;
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        width: 300px;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 0.5rem;
+        color: #555;
+    }
+
+    input[type="checkbox"], select {
+        margin-bottom: 1rem;
+    }
+
+    select {
+        width: 100%;
+        padding: 0.5rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+
+    button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 0.75rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 100%;
+        font-size: 1rem;
+    }
+
+        button:hover {
+            background-color: #45a049;
+        }
+</style>
+
+<body>
+    <form onsubmit="submitOrder(event)">
+        <h2>Order Form</h2>
+        <div>
+            <label for="isRushOrder">
+                Is Rush Order
+                <input type="checkbox" id="isRushOrder" name="isRushOrder">
+            </label>
+            <label for="isLargeOrder">
+                Large Order:
+                <input type="checkbox" id="isLargeOrder" name="isLargeOrder">
+            </label>
+            <label for="isNewCustomer">
+                Is New Customer
+                <input type="checkbox" id="isNewCustomer" name="isNewCustomer">
+            </label>
+            <label for="orderType">Order Type:</label>
+            <select id="orderType" name="orderType">
+                <option value="0">Repair</option>
+                <option value="1">Hire</option>
+            </select>
+        </div>
+        <div>
+            <button type="submit">Submit Order</button>
+        </div>
+        <p id="result"></p>
+    </form>
+</body>
+
+<script>
+    async function submitOrder(event) {
+        event.preventDefault();
+
+        const formData = {
+            IsRushOrder: document.getElementById("isRushOrder").checked,
+            OrderType: parseInt(document.getElementById("orderType").value),
+            IsNewCustomer: document.getElementById("isNewCustomer").checked,
+            IsLargeOrder: document.getElementById("isLargeOrder").checked
+        };
+
+        try {
+            const response = await fetch('/api/order/process-order', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            });
+
+            const result = await response.json();
+            document.getElementById("result").innerText = "Order Status: " + result;
+        } catch (error) {
+            console.error('Error submitting order:', error);
+            document.getElementById("result").innerText = "Error submitting order.";
+        }
+    }
+</script>
+</html>

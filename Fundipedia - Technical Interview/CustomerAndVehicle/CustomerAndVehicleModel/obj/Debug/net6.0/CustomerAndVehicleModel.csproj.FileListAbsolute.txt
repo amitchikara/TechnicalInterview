@@ -1,0 +1,24 @@
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.deps.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.csproj.AssemblyReference.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.AssemblyInfoInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.AssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.csproj.CoreCompileInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\refint\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\ref\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.deps.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\bin\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.csproj.AssemblyReference.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.AssemblyInfoInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.AssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.csproj.CoreCompileInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\refint\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicleModel\obj\Debug\net6.0\ref\CustomerAndVehicleModel.dll

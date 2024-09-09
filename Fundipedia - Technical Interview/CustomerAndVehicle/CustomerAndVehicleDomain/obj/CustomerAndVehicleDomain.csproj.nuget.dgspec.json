@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleDomain\\CustomerAndVehicleDomain.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleDomain\\CustomerAndVehicleDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleDomain\\CustomerAndVehicleDomain.csproj",
+        "projectName": "CustomerAndVehicleDomain",
+        "projectPath": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleDomain\\CustomerAndVehicleDomain.csproj",
+        "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\CustomerAndVehicleModel.csproj": {
+                "projectPath": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\CustomerAndVehicleModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\CustomerAndVehicleModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\CustomerAndVehicleModel.csproj",
+        "projectName": "CustomerAndVehicleModel",
+        "projectPath": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\CustomerAndVehicleModel.csproj",
+        "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicleModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

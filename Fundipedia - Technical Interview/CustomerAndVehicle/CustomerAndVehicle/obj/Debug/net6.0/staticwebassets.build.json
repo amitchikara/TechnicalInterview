@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "/nXhoWCPxQrmhJcDfXxrY6QI2RVyH0cjsHL5Qt3HETo=",
+  "Source": "CustomerAndVehicle",
+  "BasePath": "_content/CustomerAndVehicle",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CustomerAndVehicle\\wwwroot",
+      "Source": "CustomerAndVehicle",
+      "ContentRoot": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicle\\wwwroot\\",
+      "BasePath": "_content/CustomerAndVehicle",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicle\\wwwroot\\default.html",
+      "SourceId": "CustomerAndVehicle",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\Technical Tests\\Fundipedia - Technical Interview\\CustomerAndVehicle\\CustomerAndVehicle\\wwwroot\\",
+      "BasePath": "_content/CustomerAndVehicle",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}

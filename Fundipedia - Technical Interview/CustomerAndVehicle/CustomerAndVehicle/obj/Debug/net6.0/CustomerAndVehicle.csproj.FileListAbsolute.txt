@@ -1,0 +1,64 @@
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\appsettings.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.exe
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.deps.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.runtimeconfig.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.AssemblyReference.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.AssemblyInfoInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.AssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.CoreCompileInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\scopedcss\bundle\CustomerAndVehicle.styles.css
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.CopyComplete
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\refint\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.genruntimeconfig.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\ref\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.staticwebassets.runtime.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleDomain.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\Technical Test Stage 2\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleDomain.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\appsettings.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.staticwebassets.runtime.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.exe
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.deps.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.runtimeconfig.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicle.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleDomain.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleModel.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleDomain.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\bin\Debug\net6.0\CustomerAndVehicleModel.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.AssemblyReference.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.AssemblyInfoInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.AssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.CoreCompileInputs.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\scopedcss\bundle\CustomerAndVehicle.styles.css
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.csproj.CopyComplete
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\refint\CustomerAndVehicle.dll
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.pdb
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\CustomerAndVehicle.genruntimeconfig.cache
+C:\Projects\Technical Tests\Fundipedia - Technical Interview\CustomerAndVehicle\CustomerAndVehicle\obj\Debug\net6.0\ref\CustomerAndVehicle.dll
